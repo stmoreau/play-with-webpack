@@ -1,6 +1,4 @@
 /* eslint no-invalid-this: 0 */
-'use strict'
-
 var helpers = require('./helpers')
 var qs = helpers.qs
 var qsa = helpers.qsa
