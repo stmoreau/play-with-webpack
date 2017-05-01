@@ -10,7 +10,8 @@
     "http-server": "0.9.0",
     "opt-cli": "1.5.1",
     "webpack": "2.1.0-beta.20",
-    "webpack-validator": "2.2.7"
+    "webpack-validator": "2.2.7",
+    "webpack-dev-server": "2.1.0-beta.0"
   },
   "config": {
     "ghooks": {
@@ -18,6 +19,7 @@
     }
   },
   "scripts": {
+    "dev": "webpack-dev-server",
     "build:dev": "webpack",
     "validate": "npm run lint",
     "start": "http-server --silent -c-1",
