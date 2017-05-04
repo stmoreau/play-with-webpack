@@ -18,12 +18,12 @@ This is a simple todo application that I *transpiled* from Vanilla JS to React p
 - see `package.json` for all the available scripts
 
 ## Resources for webpack
-1. [awesome-webpack](git.io/awesome-webpack)
+1. [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack)
 2. __Webpack Documentation__:
-    - [Current](webpack.github.io)
-    - [Next](github.com/webpack/webpack.io)
-3. [All my egghead.io lessons](kcd.im/egghead-webpack)
-4. [React Hot Loader](kcd.im/react-hot-loader)
-5. [Webpack Plugins](kcd.im/webpack-plugins)
-6. [Webpack Loaders](kcd.im/webpack-loaders)
-7. [SurviveJS Book](kcd.im/survivejs-webpack)
+    - [Current](http://webpack.github.io/)
+    - [Next](https://github.com/webpack/webpack.js.org)
+3. [All my egghead.io lessons](https://egghead.io/playlists/webpack-from-kent-1955b36a)
+4. [React Hot Loader](https://github.com/gaearon/react-hot-loader)
+5. [Webpack Plugins](https://libraries.io/search?q=webpack+plugin&amp;platforms=NPM&amp;sort=dependents_count)
+6. [Webpack Loaders](https://libraries.io/search?q=webpack+loader&amp;platforms=NPM&amp;sort=dependents_count&amp;sort=dependents_count)
+7. [SurviveJS Book](https://leanpub.com/survivejs-webpack)
