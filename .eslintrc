@@ -1,15 +1,4 @@
 {
-  "extends": [
-    "kentcdodds/best-practices",
-    "kentcdodds/possible-errors",
-    "kentcdodds/es6/best-practices",
-    "kentcdodds/es6/possible-errors",
-    "kentcdodds/import/best-practices",
-    "kentcdodds/import/possible-errors",
-    "kentcdodds/mocha",
-    "kentcdodds/webpack",
-    "kentcdodds/react",
-  ],
   "rules": {
     // these are only here because I did not
     // want to update the entire codebase ¯\_(ツ)_/¯
